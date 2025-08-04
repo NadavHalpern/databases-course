@@ -11,6 +11,7 @@
 3. [TutorialsPoint](https://www.tutorialspoint.com/sql/index.htm) - sytax oriented
 4. [GeekForGeek](https://www.geeksforgeeks.org/sql-tutorial/) - syntax oriented
 5. [SQLBOLT](https://sqlbolt.com/) - Movies and Syntax oriented
+6. [LEETCODE](https://leetcode.com/studyplan/top-sql-50/) - syntax oriented - good for practicing queries.
    
 # Market expectations
 1. [GeeksForGeeks database interview questions](https://www.geeksforgeeks.org/database-interview-questions/)
